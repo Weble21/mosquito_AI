@@ -1,0 +1,26 @@
+# 대회 데이터 (외부 공개 금지, 용량 큼)
+data/
+
+# 학습 결과물 (모델 가중치, 제출 파일) - 노트북으로 다시 만들 수 있음
+outputs/
+*.pt
+*.pth
+
+# 파이썬 가상환경
+.venv/
+venv/
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+
+# Jupyter 자동 저장 파일
+.ipynb_checkpoints/
+
+# Hugging Face 등 로컬 캐시
+.cache/
+
+# OS, 에디터
+.DS_Store
+Thumbs.db
+desktop.ini
