@@ -5,6 +5,9 @@ data/
 outputs/
 *.pt
 *.pth
+*.npy
+*.npz
+submission*.csv
 
 # 파이썬 가상환경
 .venv/
